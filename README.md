@@ -2,14 +2,6 @@
 
 This project demonstrates the implementation of a single-layer perceptron, the foundational unit of neural networks, using Python and NumPy. It serves as an educational tool to understand how a perceptron can perform binary classification tasks.
 
-## 📁 Project Structure
-
-```
-├── perceptron.ipynb       # Jupyter Notebook with implementation and explanations
-├── requirements.txt       # List of Python dependencies
-└── README.md              # Project overview and instructions
-```
-
 ## 🚀 Features
 
 - Implementation of a single-layer perceptron from scratch
@@ -64,5 +56,6 @@ The notebook uses a synthetic dataset generated using NumPy for demonstration pu
 
 *After training, the perceptron correctly classifies the input data and the decision boundary is visualized as follows:*
 
-![Decision Boundary Example](decision_boundary.png)
+![Decision Boundary](https://github.com/user-attachments/assets/7759bf93-eb6d-40a7-802c-d9423e62098d)
+
 
